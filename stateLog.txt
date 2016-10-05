@@ -1,0 +1,5 @@
+STATE: "====================APP STATE=================
+	Search string: Rolling
+	20 results: The Rolling Stones|Slowly Rolling Camera|Rolling Blackouts Coastal Fever|Rolling Stone P|Rolling Nowhere|Rolling Home|Rolling|Rolling Blackouts|K. Rolling|Rolling Tunes|Rolling Baby|Rolling Flames|Rolling Star|Rolling Bidochons|Rolling Dog|Rolling Maffia|Rolling Circus|Hills Rolling|Rolling Stoned|Mitch Rolling
+		Favorite artists: The Rolling Stones
+		Favorite albums: "

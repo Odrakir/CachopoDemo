@@ -1,0 +1,3 @@
+github "ReactiveX/RxSwift" ~> 2.6.0
+github "RxSwiftCommunity/RxDataSources"
+github "SwiftyBeaver/SwiftyBeaver" ~> 0.7
